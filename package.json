@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MatheusCarvalho-creat/Trabalho_final_Backand1/issues"
   },
-  "homepage": "https://github.com/MatheusCarvalho-creat/Trabalho_final_Backand1#readme"
+  "homepage": "https://github.com/MatheusCarvalho-creat/Trabalho_final_Backand1#readme",
+  "dependencies": {
+    "express-generator": "^4.16.1"
+  }
 }
