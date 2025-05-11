@@ -41,3 +41,9 @@ app.use(function(err, req, res) {
 });
 
 module.exports = app;
+
+const usersRouter = require('./routes/users');
+const clientesRouter = require('./routes/clientes');
+
+ app.use('/users', usersRouter);
+ app.use('/clientes', clientesRouter);
