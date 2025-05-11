@@ -24,7 +24,7 @@ app.use('/users', usersRouter);
 
 // catch 404 and forward to error handler
 app.use(function() {
-  npx eslint . --fix
+  //npx eslint . --fix
 // eslint-disable-next-line no-undef
   next(createError(404));
 });
