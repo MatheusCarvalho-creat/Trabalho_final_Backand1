@@ -1,2 +1,5 @@
 # Trabalho_final_Backand1
-Crie uma aplicação com node.js que tenha:  ○ As seguintes dependências: cookie-parser, debug, dotenv, express, http-errors,  jade, morgan, mysql2  ○ As seguintes dependências de desenvolvedores: eslint, eslint-config-google,  nodemon  ○ Seja um repositório do público do GitHub  ○ Um endpoint que responde a GET no caminho padrão “/”  ○ Dois endpoints  “/clientes” e “/produtos” que respondem a GET, POST, PUT e  DELETE  ○ Os endpoints devem realizar operações no banco de dados
+Criar uma aplicação com node.js que tenha:  
+○ As seguintes dependências: cookie-parser, debug, dotenv, express, http-errors,  jade, morgan, mysql2 
+○ As seguintes dependências de desenvolvedores: eslint, eslint-config-google,  nodemon 
+
