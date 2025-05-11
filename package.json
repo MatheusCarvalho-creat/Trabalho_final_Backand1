@@ -1,0 +1,19 @@
+{
+  "name": "trabalho_final_backand1",
+  "version": "1.0.0",
+  "description": "Desenvolver um projeto com express e mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusCarvalho-creat/Trabalho_final_Backand1.git"
+  },
+  "author": "Matheus Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusCarvalho-creat/Trabalho_final_Backand1/issues"
+  },
+  "homepage": "https://github.com/MatheusCarvalho-creat/Trabalho_final_Backand1#readme"
+}
